@@ -157,7 +157,7 @@ Let’s bring multilingual speech synthesis to the next level. 🚀
 **Star ⭐ the project if you find it useful!**
 
 ```bash
-git clone https://github.com/thekartikeyamishra/VoiceCloner.git
+git clone https://github.com/navaneeth1612/voice-cloner.git
 ```
 
 ---
